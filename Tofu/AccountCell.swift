@@ -32,6 +32,7 @@ private let imageNames: [CaseInsensitiveString: String] = [
     "Cloudflare": "Cloudflare",
     "Coinbase": "Coinbase",
     "Contentful": "Contentful",
+    "CTemplar": "CTemplar",
     "CorporateTrust": "CorporateTrust",
     "CyDIS": "CyDIS",
     "DigitalOcean": "DigitalOcean",
